@@ -1,0 +1,32 @@
+[
+	{
+		"id": "1",
+		"nombre": {},
+		"precio": {}
+	},
+	{
+		"id": "2",
+		"precio": "30",
+		"nombre": "Sprite"
+	},
+	{
+		"id": "3",
+		"precio": "30",
+		"nombre": "Pepsi"
+	},
+	{
+		"id": "4",
+		"nombre": "Ej2",
+		"precio": "4"
+	},
+	{
+		"id": "5",
+		"nombre": "Coca-Cola Zero",
+		"precio": "35"
+	},
+	{
+		"id": "6",
+		"nombre": "Papas fritas",
+		"precio": "50"
+	}
+]

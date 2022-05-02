@@ -1,0 +1,19 @@
+[
+	{
+		"id": "1",
+		"fecha": "01-05-2022 20:51:51",
+		"Productos": [
+			{
+				"id": "1",
+				"nombre": "Empanadas",
+				"precio": "300",
+				"fecha": "01-05-2022 20:51:51",
+				"descripcion": "Empanadas de jamon y queso",
+				"codigo": "EJyQ",
+				"foto": "https://t2.rg.ltmcdn.com/es/posts/4/2/4/empanadas_de_jamon_queso_y_choclo_70424_paso_4_600.jpg",
+				"stock": "15"
+			}
+		]
+	}
+	
+]

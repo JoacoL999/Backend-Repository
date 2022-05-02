@@ -1,0 +1,57 @@
+[
+	{
+		"id": "1",
+		"nombre": "Manaos",
+		"precio": "90"
+	},
+	{
+		"id": "2",
+		"nombre": "Peras",
+		"precio": "200"
+	},
+	{
+		"id": "3",
+		"nombre": "Coca Cola",
+		"precio": "90"
+	},
+	{
+		"id": "4",
+		"nombre": "Fernet",
+		"precio": "150"
+	},
+	{
+		"id": "5",
+		"nombre": "Asado",
+		"precio": "2000"
+	},
+	{
+		"id": "6",
+		"nombre": "Papa",
+		"precio": "232"
+	},
+	{
+		"id": "7",
+		"nombre": "pepe",
+		"precio": "34"
+	},
+	{
+		"id": "8",
+		"nombre": "pizza",
+		"precio": "200"
+	},
+	{
+		"id": "9",
+		"nombre": "monster",
+		"precio": "100"
+	},
+	{
+		"id": "10",
+		"nombre": "pastel de papa",
+		"precio": "200"
+	},
+	{
+		"id": "11",
+		"nombre": "Manzana",
+		"precio": "25"
+	}
+]
