@@ -193,7 +193,7 @@ class Productos {
   }
 }
 
-const shopController = new Productos('shop.json');
+const shopController = new Productos('src/shop.json');
 
 module.exports = {
   shopController: shopController,
