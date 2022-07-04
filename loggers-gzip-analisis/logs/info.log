@@ -1,0 +1,284 @@
+[2022-07-04T18:46:13.265] [INFO] info - { _: [] }
+[2022-07-04T18:46:13.271] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18712
+[2022-07-04T19:41:05.598] [INFO] info - { _: [] }
+[2022-07-04T19:41:05.604] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20780
+[2022-07-04T19:42:52.447] [INFO] info - { _: [] }
+[2022-07-04T19:42:52.455] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 11044
+[2022-07-04T19:45:01.828] [INFO] info - { _: [] }
+[2022-07-04T19:45:01.834] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 16368
+[2022-07-04T19:45:26.256] [INFO] info - { _: [] }
+[2022-07-04T19:45:26.263] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19696
+[2022-07-04T19:46:01.988] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:01.997] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17012
+[2022-07-04T19:46:02.840] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:02.847] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20112
+[2022-07-04T19:46:03.697] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:03.703] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21220
+[2022-07-04T19:46:04.529] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:04.535] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 9028
+[2022-07-04T19:46:05.382] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:05.391] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18968
+[2022-07-04T19:46:06.240] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:06.246] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 16492
+[2022-07-04T19:46:07.034] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:07.040] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19472
+[2022-07-04T19:46:07.864] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:07.872] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6356
+[2022-07-04T19:46:08.690] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:08.698] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3512
+[2022-07-04T19:46:09.664] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:09.672] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20556
+[2022-07-04T19:46:10.643] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:10.649] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6480
+[2022-07-04T19:46:11.546] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:11.553] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20408
+[2022-07-04T19:46:12.459] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:12.471] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 2424
+[2022-07-04T19:46:13.421] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:13.427] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20880
+[2022-07-04T19:46:14.248] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:14.255] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19612
+[2022-07-04T19:46:15.033] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:15.039] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18932
+[2022-07-04T19:46:15.886] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:15.895] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 14600
+[2022-07-04T19:46:16.760] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:16.769] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19648
+[2022-07-04T19:46:17.632] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:17.640] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21388
+[2022-07-04T19:46:18.524] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:18.530] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20816
+[2022-07-04T19:46:19.323] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:19.329] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20564
+[2022-07-04T19:46:20.119] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:20.126] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 14228
+[2022-07-04T19:46:20.969] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:20.976] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18088
+[2022-07-04T19:46:21.879] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:21.885] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3628
+[2022-07-04T19:46:22.736] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:22.742] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20444
+[2022-07-04T19:46:23.696] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:23.704] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 9672
+[2022-07-04T19:46:24.536] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:24.542] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 15836
+[2022-07-04T19:46:25.505] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:25.512] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 10460
+[2022-07-04T19:46:26.343] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:26.351] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6368
+[2022-07-04T19:46:27.171] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:27.178] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 10168
+[2022-07-04T19:46:27.992] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:27.998] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17872
+[2022-07-04T19:46:28.916] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:28.925] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 8528
+[2022-07-04T19:46:59.829] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:46:59.836] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 644
+[2022-07-04T19:47:00.655] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:00.664] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3076
+[2022-07-04T19:47:01.505] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:01.514] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 13796
+[2022-07-04T19:47:02.381] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:02.390] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 8784
+[2022-07-04T19:47:03.226] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:03.232] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 8472
+[2022-07-04T19:47:04.029] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:04.035] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 10028
+[2022-07-04T19:47:04.868] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:04.876] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3628
+[2022-07-04T19:47:05.803] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:05.812] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20912
+[2022-07-04T19:47:06.625] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:06.632] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6320
+[2022-07-04T19:47:07.431] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:07.437] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 10988
+[2022-07-04T19:47:08.271] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:08.281] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18888
+[2022-07-04T19:47:09.177] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:09.184] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 15352
+[2022-07-04T19:47:10.127] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:10.133] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 2536
+[2022-07-04T19:47:11.056] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:11.064] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6304
+[2022-07-04T19:47:12.006] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:12.012] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 10876
+[2022-07-04T19:47:12.933] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:12.942] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 8252
+[2022-07-04T19:47:13.951] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:13.960] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 8708
+[2022-07-04T19:47:14.932] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:14.941] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 1376
+[2022-07-04T19:47:15.834] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:15.841] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6404
+[2022-07-04T19:47:16.705] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:16.712] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3416
+[2022-07-04T19:47:17.662] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:17.671] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20984
+[2022-07-04T19:47:18.547] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:18.556] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 12344
+[2022-07-04T19:47:19.392] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:19.401] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 5188
+[2022-07-04T19:47:20.336] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:20.345] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 12988
+[2022-07-04T19:47:21.173] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:21.181] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 15376
+[2022-07-04T19:47:22.040] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:22.048] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 724
+[2022-07-04T19:47:22.835] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:22.841] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 9396
+[2022-07-04T19:47:23.648] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:23.654] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19748
+[2022-07-04T19:47:24.475] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:24.482] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 5676
+[2022-07-04T19:47:25.271] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:25.277] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21144
+[2022-07-04T19:47:26.139] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:26.145] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20444
+[2022-07-04T19:47:27.008] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:27.017] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18536
+[2022-07-04T19:47:27.981] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:27.990] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21416
+[2022-07-04T19:47:28.844] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:28.853] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 15452
+[2022-07-04T19:47:29.717] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:29.723] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 14848
+[2022-07-04T19:47:30.540] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:30.546] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 1316
+[2022-07-04T19:47:31.380] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:31.388] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 4092
+[2022-07-04T19:47:32.190] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:32.196] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 14808
+[2022-07-04T19:47:33.011] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:33.018] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 7200
+[2022-07-04T19:47:33.963] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:33.969] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 14436
+[2022-07-04T19:47:34.880] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:34.887] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19136
+[2022-07-04T19:47:35.876] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:35.885] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 12848
+[2022-07-04T19:47:36.768] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:36.774] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17240
+[2022-07-04T19:47:37.568] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:37.574] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18084
+[2022-07-04T19:47:38.355] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:38.364] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 13932
+[2022-07-04T19:47:39.165] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:39.172] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 5880
+[2022-07-04T19:47:40.012] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:40.018] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20176
+[2022-07-04T19:47:40.857] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:40.865] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21512
+[2022-07-04T19:47:41.741] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:41.747] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22480
+[2022-07-04T19:47:42.534] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:42.542] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17084
+[2022-07-04T19:47:43.301] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:43.310] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22340
+[2022-07-04T19:47:44.155] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:44.161] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18800
+[2022-07-04T19:47:44.933] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:44.939] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22508
+[2022-07-04T19:47:45.845] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:45.852] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22016
+[2022-07-04T19:47:46.622] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:46.628] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22272
+[2022-07-04T19:47:47.385] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:47.394] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 14608
+[2022-07-04T19:47:48.214] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:48.221] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18488
+[2022-07-04T19:47:49.027] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:49.033] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 5640
+[2022-07-04T19:47:49.825] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:49.831] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22296
+[2022-07-04T19:47:50.612] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:50.618] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 4920
+[2022-07-04T19:47:51.388] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:51.394] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22456
+[2022-07-04T19:47:52.218] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:52.224] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17328
+[2022-07-04T19:47:52.991] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:52.997] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21736
+[2022-07-04T19:47:53.803] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:53.810] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3588
+[2022-07-04T19:47:54.576] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:54.582] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6820
+[2022-07-04T19:47:55.349] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:55.355] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21672
+[2022-07-04T19:47:56.151] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:56.157] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22340
+[2022-07-04T19:47:56.985] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:56.991] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19684
+[2022-07-04T19:47:57.782] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:57.789] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21880
+[2022-07-04T19:47:58.557] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:58.564] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20256
+[2022-07-04T19:47:59.321] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:47:59.328] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21952
+[2022-07-04T19:48:00.116] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:00.123] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18808
+[2022-07-04T19:48:00.913] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:00.919] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20200
+[2022-07-04T19:48:01.709] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:01.715] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 9848
+[2022-07-04T19:48:02.516] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:02.523] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3592
+[2022-07-04T19:48:03.292] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:03.298] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22100
+[2022-07-04T19:48:04.077] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:04.083] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19448
+[2022-07-04T19:48:04.853] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:04.859] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 8532
+[2022-07-04T19:48:05.665] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:05.674] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 19712
+[2022-07-04T19:48:06.463] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:06.470] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 13780
+[2022-07-04T19:48:07.247] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:07.253] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21584
+[2022-07-04T19:48:08.038] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:08.044] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 9808
+[2022-07-04T19:48:08.858] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:08.864] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21560
+[2022-07-04T19:48:09.636] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:09.644] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22136
+[2022-07-04T19:48:10.454] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:10.462] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 14820
+[2022-07-04T19:48:11.317] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:11.323] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22324
+[2022-07-04T19:48:12.123] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:12.129] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 8152
+[2022-07-04T19:48:12.920] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:12.926] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20544
+[2022-07-04T19:48:13.843] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:13.852] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17524
+[2022-07-04T19:48:14.784] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:14.791] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22180
+[2022-07-04T19:48:15.638] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:15.647] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22160
+[2022-07-04T19:48:16.522] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:16.530] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17972
+[2022-07-04T19:48:17.344] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:17.351] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 18708
+[2022-07-04T19:48:18.172] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:18.178] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 1064
+[2022-07-04T19:48:19.039] [INFO] info - { _: [], puerto: 8080 }
+[2022-07-04T19:48:19.046] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20116
+[2022-07-04T19:48:25.901] [INFO] info - { _: [] }
+[2022-07-04T19:48:25.908] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 22048
+[2022-07-04T19:51:46.681] [INFO] info - { _: [ 'CLUSTER' ] }
+[2022-07-04T19:51:46.688] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 11228
+[2022-07-04T19:54:31.812] [INFO] info - { _: [ 'FORK' ] }
+[2022-07-04T19:54:31.819] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 16680
+[2022-07-04T19:58:41.256] [INFO] info - { _: [] }
+[2022-07-04T19:58:41.263] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21992
+[2022-07-04T19:59:16.961] [INFO] info - { _: [ 'CLUSTER' ] }
+[2022-07-04T19:59:16.968] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 21528
+[2022-07-04T20:00:31.652] [INFO] info - { _: [ 'FORK' ], puerto: 8080 }
+[2022-07-04T20:00:31.659] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 11076
+[2022-07-04T20:03:33.604] [INFO] info - { _: [ 'CLUSTER' ], puerto: 8080 }
+[2022-07-04T20:03:33.611] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 20932
+[2022-07-04T20:05:28.366] [INFO] info - { _: [] }
+[2022-07-04T20:05:28.380] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 17724
+[2022-07-04T20:17:04.368] [INFO] info - { _: [] }
+[2022-07-04T20:17:04.380] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 6572
+[2022-07-04T20:18:42.448] [INFO] info - { _: [] }
+[2022-07-04T20:18:42.462] [INFO] info - Servidor express escuchando en el puerto 8080 - PID WORKER 3396

@@ -1,0 +1,10 @@
+[2022-07-04T18:08:26.067] [INFO] default - { _: [] }
+[2022-07-04T18:08:26.074] [INFO] default - Servidor express escuchando en el puerto 8080 - PID WORKER 18668
+[2022-07-04T18:11:12.634] [INFO] default - { _: [] }
+[2022-07-04T18:11:12.640] [INFO] default - Servidor express escuchando en el puerto 8080 - PID WORKER 19524
+[2022-07-04T18:15:23.528] [INFO] default - Resolving / endpoint
+[2022-07-04T18:15:30.501] [WARN] default - PID => 19524 will work slow
+[2022-07-04T18:15:38.783] [WARN] default - PID => 19524 will work slow
+[2022-07-04T18:32:05.284] [INFO] default - { _: [] }
+[2022-07-04T18:32:05.290] [INFO] default - Servidor express escuchando en el puerto 8080 - PID WORKER 17848
+[2022-07-04T18:32:12.628] [WARN] default - PID => 17848 will work slow
