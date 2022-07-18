@@ -1,0 +1,387 @@
+[2022-07-15T16:53:28.844] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24916
+[2022-07-15T18:50:40.107] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 4636
+[2022-07-15T18:50:41.957] [INFO] info - Connected
+[2022-07-15T18:56:15.845] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 1240
+[2022-07-15T18:56:17.578] [INFO] info - Connected
+[2022-07-15T18:59:06.226] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 8464
+[2022-07-15T18:59:08.029] [INFO] info - Connected
+[2022-07-15T19:02:15.928] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24288
+[2022-07-15T19:02:17.720] [INFO] info - Connected
+[2022-07-15T19:03:31.566] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23640
+[2022-07-15T19:03:33.344] [INFO] info - Connected
+[2022-07-15T19:05:15.848] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 14132
+[2022-07-15T19:05:17.699] [INFO] info - Connected
+[2022-07-15T19:05:25.251] [INFO] info - User created! {
+  firstName: 'Joaquin',
+  lastName: 'Lucchetti',
+  email: 'joaquinlucchetti@gmail.com',
+  age: 22,
+  isAdmin: true,
+  password: '$2b$15$3w9RipWBCf/VLegpvjzjtOWJtxT66ldWIbR6wWjFPEGHYt6vUC3eC',
+  phoneNum: '+542216255554',
+  _id: new ObjectId("62d1e4a216b04091f1c809a1"),
+  __v: 0
+}
+[2022-07-15T19:08:10.768] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 4800
+[2022-07-15T19:08:12.589] [INFO] info - Connected
+[2022-07-15T19:14:51.750] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 12448
+[2022-07-15T19:14:53.506] [INFO] info - Connected
+[2022-07-15T19:15:37.811] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 10140
+[2022-07-15T19:15:39.479] [INFO] info - Connected
+[2022-07-15T19:17:42.922] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 20252
+[2022-07-15T19:17:44.741] [INFO] info - Connected
+[2022-07-15T19:18:46.271] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 20832
+[2022-07-15T19:18:48.034] [INFO] info - Connected
+[2022-07-15T19:22:00.532] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 9240
+[2022-07-15T19:22:02.346] [INFO] info - Connected
+[2022-07-15T19:25:21.025] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 14896
+[2022-07-15T19:25:22.828] [INFO] info - Connected
+[2022-07-15T19:25:36.092] [INFO] info - User created! {
+  firstName: 'Joaquin',
+  lastName: 'Lucchetti',
+  email: 'joaquinlucchetti@gmail.com',
+  age: 22,
+  isAdmin: true,
+  password: '$2b$15$q1RbFJbpmxPMGDf0uFd1Gu/NW6gWcXQsjZ6u5YIybBNdBCSkkUUyK',
+  phoneNum: '+542216255554',
+  _id: new ObjectId("62d1e95d1583d83b21d9e41c"),
+  __v: 0
+}
+[2022-07-15T19:30:28.908] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 14600
+[2022-07-15T19:30:30.703] [INFO] info - Connected
+[2022-07-15T19:32:59.373] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 3244
+[2022-07-15T19:33:01.104] [INFO] info - Connected
+[2022-07-15T19:34:15.177] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 21012
+[2022-07-15T19:34:16.980] [INFO] info - Connected
+[2022-07-15T19:38:37.787] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 26188
+[2022-07-15T19:38:39.589] [INFO] info - Connected
+[2022-07-15T19:42:46.773] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 10888
+[2022-07-15T19:42:48.508] [INFO] info - Connected
+[2022-07-15T19:53:41.388] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 18180
+[2022-07-15T19:53:43.151] [INFO] info - Connected
+[2022-07-15T19:54:47.626] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 3184
+[2022-07-15T19:54:49.381] [INFO] info - Connected
+[2022-07-15T20:00:02.490] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 12604
+[2022-07-15T20:00:04.283] [INFO] info - Connected
+[2022-07-18T11:20:25.494] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 17020
+[2022-07-18T11:20:27.272] [INFO] info - Connected
+[2022-07-18T11:27:00.576] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 5888
+[2022-07-18T11:27:02.358] [INFO] info - Connected
+[2022-07-18T11:32:02.246] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 16052
+[2022-07-18T11:32:04.044] [INFO] info - Connected
+[2022-07-18T11:33:38.312] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 21196
+[2022-07-18T11:33:40.061] [INFO] info - Connected
+[2022-07-18T11:34:11.797] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 2772
+[2022-07-18T11:34:13.462] [INFO] info - Connected
+[2022-07-18T11:36:30.775] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 20356
+[2022-07-18T11:36:32.536] [INFO] info - Connected
+[2022-07-18T11:40:26.517] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 15168
+[2022-07-18T11:40:28.254] [INFO] info - Connected
+[2022-07-18T11:40:31.009] [INFO] info - SMb49e6564023b4f02a2e34ea2b4d85cc8
+[2022-07-18T11:42:56.077] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23040
+[2022-07-18T11:42:57.908] [INFO] info - Connected
+[2022-07-18T11:43:07.282] [INFO] info - SMf501c931eb6d45c2b7c55724d36b9679
+[2022-07-18T11:44:41.008] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 13284
+[2022-07-18T11:44:42.843] [INFO] info - Connected
+[2022-07-18T11:44:51.519] [INFO] info - SM92497eb825a644a6a799bd55bd88ebbd
+[2022-07-18T11:45:32.621] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 2208
+[2022-07-18T11:45:34.275] [INFO] info - Connected
+[2022-07-18T11:45:59.472] [INFO] info - SM671d5508c77a43e69a0aac77e4995a8f
+[2022-07-18T11:48:16.163] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 17116
+[2022-07-18T11:48:17.952] [INFO] info - Connected
+[2022-07-18T11:48:23.757] [INFO] info - SMbda972ab963c42ada41192174bc7b642
+[2022-07-18T11:49:42.182] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23304
+[2022-07-18T11:49:44.022] [INFO] info - Connected
+[2022-07-18T11:54:58.968] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 10156
+[2022-07-18T11:55:00.725] [INFO] info - Connected
+[2022-07-18T11:55:39.012] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 4740
+[2022-07-18T11:55:40.587] [INFO] info - Connected
+[2022-07-18T12:01:40.657] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22756
+[2022-07-18T12:01:42.521] [INFO] info - Connected
+[2022-07-18T12:03:31.100] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24148
+[2022-07-18T12:03:32.754] [INFO] info - Connected
+[2022-07-18T12:04:28.149] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22780
+[2022-07-18T12:04:29.829] [INFO] info - Connected
+[2022-07-18T12:07:46.650] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24260
+[2022-07-18T12:07:48.440] [INFO] info - Connected
+[2022-07-18T12:09:38.270] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 12476
+[2022-07-18T12:09:40.015] [INFO] info - Connected
+[2022-07-18T12:10:49.680] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 7888
+[2022-07-18T12:10:51.450] [INFO] info - Connected
+[2022-07-18T12:12:17.024] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23960
+[2022-07-18T12:12:18.848] [INFO] info - Connected
+[2022-07-18T12:57:56.923] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23164
+[2022-07-18T12:57:58.693] [INFO] info - Connected
+[2022-07-18T14:31:12.968] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 19976
+[2022-07-18T14:31:14.731] [INFO] info - Connected
+[2022-07-18T14:32:10.616] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 19772
+[2022-07-18T14:32:12.302] [INFO] info - Connected
+[2022-07-18T14:33:16.045] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23984
+[2022-07-18T14:33:17.700] [INFO] info - Connected
+[2022-07-18T14:35:20.019] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 13512
+[2022-07-18T14:35:21.813] [INFO] info - Connected
+[2022-07-18T14:37:34.735] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 9688
+[2022-07-18T14:37:36.519] [INFO] info - Connected
+[2022-07-18T14:41:09.480] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 20496
+[2022-07-18T14:41:11.217] [INFO] info - Connected
+[2022-07-18T14:42:00.031] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 13896
+[2022-07-18T14:42:01.733] [INFO] info - Connected
+[2022-07-18T14:43:05.069] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22660
+[2022-07-18T14:43:06.747] [INFO] info - Connected
+[2022-07-18T14:43:42.054] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 20652
+[2022-07-18T14:43:43.722] [INFO] info - Connected
+[2022-07-18T14:43:47.105] [INFO] info - SM8222baa08378480886505dbf21894129
+[2022-07-18T14:44:40.691] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 17312
+[2022-07-18T14:44:42.457] [INFO] info - Connected
+[2022-07-18T14:49:18.835] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 10140
+[2022-07-18T14:49:20.607] [INFO] info - Connected
+[2022-07-18T14:50:12.497] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 17304
+[2022-07-18T14:50:14.127] [INFO] info - Connected
+[2022-07-18T14:52:06.154] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 17108
+[2022-07-18T14:52:07.930] [INFO] info - Connected
+[2022-07-18T14:54:15.069] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25152
+[2022-07-18T14:54:16.879] [INFO] info - Connected
+[2022-07-18T14:55:10.927] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 6356
+[2022-07-18T14:55:12.607] [INFO] info - Connected
+[2022-07-18T14:56:05.794] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23384
+[2022-07-18T14:56:07.466] [INFO] info - Connected
+[2022-07-18T14:57:04.169] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 5436
+[2022-07-18T14:57:05.913] [INFO] info - Connected
+[2022-07-18T14:57:13.598] [INFO] info - SMea114c4bcb734dd58137add4c62e2110
+[2022-07-18T15:01:38.829] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23060
+[2022-07-18T15:01:40.599] [INFO] info - Connected
+[2022-07-18T15:02:14.560] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23112
+[2022-07-18T15:02:16.254] [INFO] info - Connected
+[2022-07-18T15:02:38.613] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22628
+[2022-07-18T15:02:40.434] [INFO] info - Connected
+[2022-07-18T15:07:09.465] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22712
+[2022-07-18T15:07:11.304] [INFO] info - Connected
+[2022-07-18T15:08:13.809] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 14704
+[2022-07-18T15:08:15.564] [INFO] info - Connected
+[2022-07-18T15:10:17.926] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 3808
+[2022-07-18T15:10:19.682] [INFO] info - Connected
+[2022-07-18T15:11:54.274] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25188
+[2022-07-18T15:11:56.078] [INFO] info - Connected
+[2022-07-18T15:13:13.582] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23584
+[2022-07-18T15:13:15.426] [INFO] info - Connected
+[2022-07-18T15:15:24.399] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25236
+[2022-07-18T15:15:26.145] [INFO] info - Connected
+[2022-07-18T15:20:59.636] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 19648
+[2022-07-18T15:21:01.413] [INFO] info - Connected
+[2022-07-18T15:21:51.936] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 2420
+[2022-07-18T15:21:53.564] [INFO] info - Connected
+[2022-07-18T15:22:59.645] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 18128
+[2022-07-18T15:23:01.231] [INFO] info - Connected
+[2022-07-18T15:24:22.620] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 8648
+[2022-07-18T15:24:24.320] [INFO] info - Connected
+[2022-07-18T15:26:05.421] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 9692
+[2022-07-18T15:26:07.228] [INFO] info - Connected
+[2022-07-18T15:26:23.466] [INFO] info - SMd66792651f7f42648a206d3bd87c29c4
+[2022-07-18T15:28:02.343] [INFO] info - SMfdeebcd492c8432c8a29ee4025dc6086
+[2022-07-18T15:35:34.553] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24568
+[2022-07-18T15:35:36.377] [INFO] info - Connected
+[2022-07-18T15:35:40.407] [INFO] info - SM07154dba22664583a8d5043b1f066179
+[2022-07-18T15:37:42.622] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22936
+[2022-07-18T15:37:44.390] [INFO] info - Connected
+[2022-07-18T15:37:47.847] [INFO] info - SMda466bef045140df9c4d2930c2afa0c1
+[2022-07-18T15:39:55.751] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25388
+[2022-07-18T15:39:57.533] [INFO] info - Connected
+[2022-07-18T15:40:02.493] [INFO] info - SM21f38a5ececf4b2bba5516e21652b98d
+[2022-07-18T15:40:52.444] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23900
+[2022-07-18T15:40:54.141] [INFO] info - Connected
+[2022-07-18T15:41:07.516] [INFO] info - SMbdbf8fd7d8ea407dab72c44c3a83619b
+[2022-07-18T15:42:32.653] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23180
+[2022-07-18T15:42:34.440] [INFO] info - Connected
+[2022-07-18T15:43:31.965] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 20772
+[2022-07-18T15:43:33.688] [INFO] info - Connected
+[2022-07-18T15:44:35.996] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24264
+[2022-07-18T15:44:37.736] [INFO] info - Connected
+[2022-07-18T15:44:44.970] [INFO] info - SM54539906905543328acff4fb1a370f38
+[2022-07-18T15:48:34.801] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24596
+[2022-07-18T15:48:36.586] [INFO] info - Connected
+[2022-07-18T15:50:04.491] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 17864
+[2022-07-18T15:50:06.223] [INFO] info - Connected
+[2022-07-18T15:52:13.408] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23568
+[2022-07-18T15:52:15.169] [INFO] info - Connected
+[2022-07-18T15:52:58.854] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 15848
+[2022-07-18T15:53:00.502] [INFO] info - Connected
+[2022-07-18T15:53:03.680] [INFO] info - SM4cd51a14f18443e1aebb3e9325c70db6
+[2022-07-18T15:56:10.385] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 26520
+[2022-07-18T15:56:12.153] [INFO] info - Connected
+[2022-07-18T15:56:15.199] [INFO] info - SMaf4d340abfca4b69b1b0a2d5f7bb0806
+[2022-07-18T15:58:46.309] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 15612
+[2022-07-18T15:58:48.113] [INFO] info - Connected
+[2022-07-18T15:58:54.915] [INFO] info - SMd64749731b6d4f0e94038f8da21e11ea
+[2022-07-18T16:01:02.408] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 11000
+[2022-07-18T16:01:04.162] [INFO] info - Connected
+[2022-07-18T16:01:48.736] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25752
+[2022-07-18T16:01:50.362] [INFO] info - Connected
+[2022-07-18T16:03:23.177] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25916
+[2022-07-18T16:03:24.957] [INFO] info - Connected
+[2022-07-18T16:03:28.368] [INFO] info - SM287ac55e896542c384edea2e929077a6
+[2022-07-18T16:04:57.053] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 23300
+[2022-07-18T16:04:58.838] [INFO] info - Connected
+[2022-07-18T16:05:02.260] [INFO] info - SM6fb0492e623341508a5dfdf2add4c56e
+[2022-07-18T17:09:28.058] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 26656
+[2022-07-18T17:09:29.066] [INFO] info - Email ready
+[2022-07-18T17:09:29.833] [INFO] info - Connected
+[2022-07-18T17:15:18.638] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24136
+[2022-07-18T17:15:19.600] [INFO] info - Email ready
+[2022-07-18T17:15:20.375] [INFO] info - Connected
+[2022-07-18T17:20:28.385] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 28264
+[2022-07-18T17:20:29.037] [INFO] info - Email ready
+[2022-07-18T17:20:30.150] [INFO] info - Connected
+[2022-07-18T17:26:45.914] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 26480
+[2022-07-18T17:26:46.855] [INFO] info - Email ready
+[2022-07-18T17:26:47.680] [INFO] info - Connected
+[2022-07-18T17:26:53.274] [INFO] info - SMd909aa9aefd74f9fade6d08e21f4357f
+[2022-07-18T17:29:24.187] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 19192
+[2022-07-18T17:29:24.866] [INFO] info - Email ready
+[2022-07-18T17:29:25.951] [INFO] info - Connected
+[2022-07-18T17:32:14.366] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27984
+[2022-07-18T17:32:15.026] [INFO] info - Email ready
+[2022-07-18T17:32:16.185] [INFO] info - Connected
+[2022-07-18T17:32:39.399] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 15028
+[2022-07-18T17:32:40.021] [INFO] info - Email ready
+[2022-07-18T17:32:41.014] [INFO] info - Connected
+[2022-07-18T17:32:58.459] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27488
+[2022-07-18T17:32:59.095] [INFO] info - Email ready
+[2022-07-18T17:33:00.122] [INFO] info - Connected
+[2022-07-18T17:33:53.943] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25836
+[2022-07-18T17:33:54.890] [INFO] info - Email ready
+[2022-07-18T17:33:55.744] [INFO] info - Connected
+[2022-07-18T17:34:09.760] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 6524
+[2022-07-18T17:34:10.399] [INFO] info - Email ready
+[2022-07-18T17:34:11.390] [INFO] info - Connected
+[2022-07-18T17:36:07.314] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27264
+[2022-07-18T17:36:08.069] [INFO] info - Email ready
+[2022-07-18T17:36:09.049] [INFO] info - Connected
+[2022-07-18T17:36:15.313] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 19500
+[2022-07-18T17:36:16.029] [INFO] info - Email ready
+[2022-07-18T17:36:16.924] [INFO] info - Connected
+[2022-07-18T17:36:23.624] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 11428
+[2022-07-18T17:36:24.267] [INFO] info - Email ready
+[2022-07-18T17:36:25.265] [INFO] info - Connected
+[2022-07-18T17:36:40.023] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 10148
+[2022-07-18T17:36:40.662] [INFO] info - Email ready
+[2022-07-18T17:37:40.731] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25360
+[2022-07-18T17:37:41.423] [INFO] info - Email ready
+[2022-07-18T17:37:42.537] [INFO] info - Connected
+[2022-07-18T17:49:07.853] [INFO] info - PID MASTER 25336
+[2022-07-18T17:49:08.571] [INFO] info - Email ready
+[2022-07-18T17:49:09.736] [INFO] info - Connected
+[2022-07-18T17:49:09.936] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 30864
+[2022-07-18T17:49:09.976] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 29828
+[2022-07-18T17:49:10.019] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 35100
+[2022-07-18T17:49:10.033] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 28980
+[2022-07-18T17:49:10.036] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27492
+[2022-07-18T17:49:10.072] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 32992
+[2022-07-18T17:49:10.080] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 32556
+[2022-07-18T17:49:10.101] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 29556
+[2022-07-18T17:49:10.120] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27296
+[2022-07-18T17:49:10.122] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 35620
+[2022-07-18T17:49:10.129] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 29848
+[2022-07-18T17:49:10.191] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 12224
+[2022-07-18T17:49:10.608] [INFO] info - Email ready
+[2022-07-18T17:49:10.608] [INFO] info - Email ready
+[2022-07-18T17:49:10.676] [INFO] info - Email ready
+[2022-07-18T17:49:10.677] [INFO] info - Email ready
+[2022-07-18T17:49:10.677] [INFO] info - Email ready
+[2022-07-18T17:49:10.702] [INFO] info - Email ready
+[2022-07-18T17:49:10.707] [INFO] info - Email ready
+[2022-07-18T17:49:10.725] [INFO] info - Email ready
+[2022-07-18T17:49:10.775] [INFO] info - Email ready
+[2022-07-18T17:49:11.044] [INFO] info - Email ready
+[2022-07-18T17:49:11.080] [INFO] info - Email ready
+[2022-07-18T17:49:11.201] [INFO] info - Email ready
+[2022-07-18T17:49:11.552] [INFO] info - Connected
+[2022-07-18T17:49:11.727] [INFO] info - Connected
+[2022-07-18T17:49:11.732] [INFO] info - Connected
+[2022-07-18T17:49:11.734] [INFO] info - Connected
+[2022-07-18T17:49:11.733] [INFO] info - Connected
+[2022-07-18T17:49:11.734] [INFO] info - Connected
+[2022-07-18T17:49:11.735] [INFO] info - Connected
+[2022-07-18T17:49:11.736] [INFO] info - Connected
+[2022-07-18T17:49:11.740] [INFO] info - Connected
+[2022-07-18T17:49:11.741] [INFO] info - Connected
+[2022-07-18T17:49:11.743] [INFO] info - Connected
+[2022-07-18T17:49:11.900] [INFO] info - Connected
+[2022-07-18T17:49:39.387] [INFO] info - PID MASTER 33176
+[2022-07-18T17:49:40.199] [INFO] info - Email ready
+[2022-07-18T17:49:41.161] [INFO] info - Connected
+[2022-07-18T17:49:41.490] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 31180
+[2022-07-18T17:49:41.502] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 13748
+[2022-07-18T17:49:41.505] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 29008
+[2022-07-18T17:49:41.551] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 26224
+[2022-07-18T17:49:41.557] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 30512
+[2022-07-18T17:49:41.558] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 31060
+[2022-07-18T17:49:41.580] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 33024
+[2022-07-18T17:49:41.636] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22604
+[2022-07-18T17:49:41.639] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 34464
+[2022-07-18T17:49:41.642] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 33480
+[2022-07-18T17:49:41.643] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 32928
+[2022-07-18T17:49:41.662] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 32832
+[2022-07-18T17:49:42.092] [INFO] info - Email ready
+[2022-07-18T17:49:42.128] [INFO] info - Email ready
+[2022-07-18T17:49:42.166] [INFO] info - Email ready
+[2022-07-18T17:49:42.166] [INFO] info - Email ready
+[2022-07-18T17:49:42.167] [INFO] info - Email ready
+[2022-07-18T17:49:42.195] [INFO] info - Email ready
+[2022-07-18T17:49:42.234] [INFO] info - Email ready
+[2022-07-18T17:49:42.266] [INFO] info - Email ready
+[2022-07-18T17:49:42.367] [INFO] info - Email ready
+[2022-07-18T17:49:42.626] [INFO] info - Email ready
+[2022-07-18T17:49:42.673] [INFO] info - Email ready
+[2022-07-18T17:49:42.701] [INFO] info - Email ready
+[2022-07-18T17:49:43.062] [INFO] info - Connected
+[2022-07-18T17:49:43.183] [INFO] info - Connected
+[2022-07-18T17:49:43.188] [INFO] info - Connected
+[2022-07-18T17:49:43.187] [INFO] info - Connected
+[2022-07-18T17:49:43.190] [INFO] info - Connected
+[2022-07-18T17:49:43.193] [INFO] info - Connected
+[2022-07-18T17:49:43.194] [INFO] info - Connected
+[2022-07-18T17:49:43.219] [INFO] info - Connected
+[2022-07-18T17:49:43.237] [INFO] info - Connected
+[2022-07-18T17:49:43.349] [INFO] info - Connected
+[2022-07-18T17:49:43.358] [INFO] info - Connected
+[2022-07-18T17:49:43.369] [INFO] info - Connected
+[2022-07-18T17:55:01.194] [INFO] info - PID MASTER 29960
+[2022-07-18T17:55:01.973] [INFO] info - Email ready
+[2022-07-18T17:55:03.117] [INFO] info - Connected
+[2022-07-18T17:55:03.216] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 24668
+[2022-07-18T17:55:03.245] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 25540
+[2022-07-18T17:55:03.290] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 828
+[2022-07-18T17:55:03.321] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 35520
+[2022-07-18T17:55:03.346] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 2732
+[2022-07-18T17:55:03.357] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 35728
+[2022-07-18T17:55:03.358] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27624
+[2022-07-18T17:55:03.362] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 26016
+[2022-07-18T17:55:03.373] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 30204
+[2022-07-18T17:55:03.390] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 35464
+[2022-07-18T17:55:03.392] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 21840
+[2022-07-18T17:55:03.432] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 29448
+[2022-07-18T17:55:03.868] [INFO] info - Email ready
+[2022-07-18T17:55:03.969] [INFO] info - Email ready
+[2022-07-18T17:55:03.969] [INFO] info - Email ready
+[2022-07-18T17:55:03.969] [INFO] info - Email ready
+[2022-07-18T17:55:03.971] [INFO] info - Email ready
+[2022-07-18T17:55:03.973] [INFO] info - Email ready
+[2022-07-18T17:55:03.973] [INFO] info - Email ready
+[2022-07-18T17:55:03.993] [INFO] info - Email ready
+[2022-07-18T17:55:04.035] [INFO] info - Email ready
+[2022-07-18T17:55:04.035] [INFO] info - Email ready
+[2022-07-18T17:55:04.293] [INFO] info - Email ready
+[2022-07-18T17:55:04.443] [INFO] info - Email ready
+[2022-07-18T17:55:23.002] [INFO] info - PID MASTER 30436
+[2022-07-18T17:55:23.736] [INFO] info - Email ready
+[2022-07-18T17:55:29.587] [INFO] info - PID MASTER 26524
+[2022-07-18T17:55:36.695] [INFO] info - PID MASTER 30588
+[2022-07-18T17:55:42.835] [INFO] info - PID MASTER 31516
+[2022-07-18T17:55:43.563] [INFO] info - Email ready
+[2022-07-18T17:55:50.203] [INFO] info - PID MASTER 32836
+[2022-07-18T17:55:55.196] [INFO] info - PID MASTER 30440
+[2022-07-18T17:55:55.915] [INFO] info - Email ready
+[2022-07-18T17:56:42.985] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 35564
+[2022-07-18T17:56:43.612] [INFO] info - Email ready
+[2022-07-18T17:56:44.743] [INFO] info - Connected
+[2022-07-18T17:56:54.796] [INFO] info - SMa979451f81754d9f867aa4c47d1f76b8
