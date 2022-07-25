@@ -1,0 +1,57 @@
+[2022-07-25T16:26:55.777] [ERROR] error - HUBO UN ERROR Documento no existe
+[2022-07-25T16:26:55.783] [ERROR] error - ApiError: Documento no existe
+    at ProductDao.<anonymous> (D:\CoderHouse\Backend\patrones\src\models\products\DAOs\mongoDao.ts:46:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\CoderHouse\Backend\patrones\src\models\products\DAOs\mongoDao.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  statusCode: 404
+}
+[2022-07-25T16:29:17.677] [ERROR] error - HUBO UN ERROR Documento no existe
+[2022-07-25T16:29:17.685] [ERROR] error - ApiError: Documento no existe
+    at ProductDao.<anonymous> (D:\CoderHouse\Backend\patrones\src\models\products\DAOs\mongoDao.ts:46:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\CoderHouse\Backend\patrones\src\models\products\DAOs\mongoDao.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  statusCode: 404
+}
+[2022-07-25T16:32:28.368] [ERROR] error - HUBO UN ERROR Documento no existe
+[2022-07-25T16:32:28.376] [ERROR] error - ApiError: Documento no existe
+    at ProductDao.<anonymous> (D:\CoderHouse\Backend\patrones\src\models\products\DAOs\mongoDao.ts:45:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\CoderHouse\Backend\patrones\src\models\products\DAOs\mongoDao.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  statusCode: 404
+}
+[2022-07-25T16:57:02.001] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:30:25
+    at Generator.next (<anonymous>)
+    at D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:4:12)
+    at runCmds (D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:20:12)
+    at Object.<anonymous> (D:\CoderHouse\Backend\patrones\dist\index.js:10:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+[2022-07-25T16:58:53.349] [ERROR] error - TypeError: cmd is not a function
+    at D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:30:21
+    at Generator.next (<anonymous>)
+    at D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:4:12)
+    at runCmds (D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:20:12)
+    at Object.<anonymous> (D:\CoderHouse\Backend\patrones\dist\index.js:10:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+[2022-07-25T17:00:00.949] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:30:25
+    at Generator.next (<anonymous>)
+    at D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:4:12)
+    at runCmds (D:\CoderHouse\Backend\patrones\dist\models\products\prodCMD.js:20:12)
+    at Object.<anonymous> (D:\CoderHouse\Backend\patrones\dist\index.js:10:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
