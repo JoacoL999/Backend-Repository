@@ -385,3 +385,105 @@
 [2022-07-18T17:56:43.612] [INFO] info - Email ready
 [2022-07-18T17:56:44.743] [INFO] info - Connected
 [2022-07-18T17:56:54.796] [INFO] info - SMa979451f81754d9f867aa4c47d1f76b8
+[2022-08-02T16:57:27.987] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 18748
+[2022-08-02T16:57:28.787] [INFO] info - Email ready
+[2022-08-02T16:57:29.870] [INFO] info - Connected
+[2022-08-02T17:15:27.176] [INFO] info - User created! {
+  firstName: 'Joaquin',
+  lastName: 'Lucchetti',
+  email: 'joaquinlucchetti@gmail.com',
+  age: 22,
+  isAdmin: false,
+  password: '$2b$15$VBx/SfOi5DwQMwM8JNYXZOcTk4WxEPLNC2cMCJ.4SG.ZT16AQIq8.',
+  phoneNum: '+5492216255554',
+  _id: new ObjectId("62e985dc99a285d31de6b747"),
+  __v: 0
+}
+[2022-08-02T17:17:07.823] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 14368
+[2022-08-02T17:17:08.384] [INFO] info - Email ready
+[2022-08-02T17:17:09.716] [INFO] info - Connected
+[2022-08-02T17:17:18.092] [INFO] info - User created! {
+  firstName: 'Jeremias',
+  lastName: 'Lucchetti',
+  email: 'anakin_lla@hotmail.com',
+  age: 22,
+  isAdmin: true,
+  password: '$2b$15$8tr1latYl.ZrxYk2imgWqOBorj0.GN3znGmqxpejru5dp/vS26ay2',
+  phoneNum: '+5492216255554',
+  _id: new ObjectId("62e9864bfbc3159351526630"),
+  __v: 0
+}
+[2022-08-02T17:20:38.636] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22252
+[2022-08-02T17:20:39.306] [INFO] info - Email ready
+[2022-08-02T17:20:40.333] [INFO] info - Connected
+[2022-08-02T17:20:47.863] [INFO] info - User created! {
+  firstName: 'Jeremias',
+  lastName: 'Lucchetti',
+  email: 'anakin_lla@hotmail.com',
+  age: 22,
+  isAdmin: true,
+  password: '$2b$15$6xbaCPSO9h49HwXi74V3QOh4cN..J6Bhvjd6gzxqfPdjJzcf4yHe.',
+  phoneNum: '+5492216255554',
+  _id: new ObjectId("62e9871db886d87275feedcb"),
+  __v: 0
+}
+[2022-08-02T17:28:21.080] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 15156
+[2022-08-02T17:28:21.800] [INFO] info - Email ready
+[2022-08-02T17:28:22.800] [INFO] info - Connected
+[2022-08-02T17:28:37.204] [INFO] info - User created! {
+  firstName: 'Jeremias',
+  lastName: 'Lucchetti',
+  email: 'anakin_lla@hotmail.com',
+  age: 22,
+  isAdmin: true,
+  password: '$2b$15$TVrjVeyWrXJOXo2P7bkFSOakbO1IBoHrIVQkCQ3ySwJUWh2mvmeXO',
+  phoneNum: '+5492216255554',
+  _id: new ObjectId("62e988f21113fb34293dc20f"),
+  __v: 0
+}
+[2022-08-02T17:34:52.000] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 18192
+[2022-08-02T17:34:52.620] [INFO] info - Email ready
+[2022-08-02T17:34:53.904] [INFO] info - Connected
+[2022-08-02T17:35:01.928] [INFO] info - User created! {
+  firstName: 'Jeremias',
+  lastName: 'Lucchetti',
+  email: 'anakin_lla@hotmail.com',
+  age: 22,
+  isAdmin: true,
+  password: '$2b$15$h4c4msfSqN95KsSkfVWZBO8S3XOSzUIW6IdLlHiuW/HZTCFfOtIsW',
+  phoneNum: '+5492216255554',
+  _id: new ObjectId("62e98a73eef12a280884b7ae"),
+  __v: 0
+}
+[2022-08-02T17:35:38.624] [INFO] info - User created! {
+  firstName: 'Joaquin',
+  lastName: 'Lucchetti',
+  email: 'joaquinlucchetti@gmail.com',
+  age: 22,
+  isAdmin: false,
+  password: '$2b$15$LgXYtxF9ObpxwB9DX6/Zqu0ViygULssi0Trx2I4Rhww3L7x0ejDRW',
+  phoneNum: '+5492216255554',
+  _id: new ObjectId("62e98a98eef12a280884b7b3"),
+  __v: 0
+}
+[2022-08-02T17:55:56.899] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27912
+[2022-08-02T17:55:57.463] [INFO] info - Email ready
+[2022-08-02T17:55:58.765] [INFO] info - Connected
+[2022-08-02T17:58:47.879] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 27296
+[2022-08-02T17:58:48.567] [INFO] info - Email ready
+[2022-08-02T17:58:49.740] [INFO] info - Connected
+[2022-08-02T18:00:45.182] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 7044
+[2022-08-02T18:00:45.730] [INFO] info - Email ready
+[2022-08-02T18:00:47.020] [INFO] info - Connected
+[2022-08-02T18:02:06.780] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 28540
+[2022-08-02T18:02:07.469] [INFO] info - Email ready
+[2022-08-02T18:02:08.606] [INFO] info - Connected
+[2022-08-02T18:04:48.471] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 29480
+[2022-08-02T18:04:49.055] [INFO] info - Email ready
+[2022-08-02T18:04:50.290] [INFO] info - Connected
+[2022-08-02T18:08:11.197] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 22212
+[2022-08-02T18:08:12.149] [INFO] info - Email ready
+[2022-08-02T18:08:13.034] [INFO] info - Connected
+[2022-08-02T18:10:52.100] [INFO] info - Servidor express escuchando en el puerto 8000 - PID WORKER 29688
+[2022-08-02T18:10:52.657] [INFO] info - Email ready
+[2022-08-02T18:10:53.983] [INFO] info - Connected

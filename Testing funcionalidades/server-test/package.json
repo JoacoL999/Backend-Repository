@@ -1,0 +1,57 @@
+{
+  "name": "project-ch-steam4",
+  "version": "1.0.1",
+  "description": "react & nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "jest --coverage --testMatch='**/*user-test.ts'"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/http-server": "^0.12.1",
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "^18.0.3",
+    "bcrypt": "^5.0.1",
+    "connect-mongo": "^4.6.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "jest": "^28.1.3",
+    "joi": "^17.6.0",
+    "log4js": "^6.6.0",
+    "minimist": "^1.2.6",
+    "moment": "^2.29.4",
+    "mongoose": "^6.4.4",
+    "nodemailer": "^6.7.7",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "portfinder": "^1.0.28",
+    "supertest": "^6.2.4",
+    "ts-dotenv": "^0.8.3",
+    "ts-jest": "^28.0.7",
+    "twilio": "^3.79.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/connect-mongo": "^3.1.3",
+    "@types/cookie-parser": "^1.4.3",
+    "@types/cors": "^2.8.12",
+    "@types/express-session": "^1.17.5",
+    "@types/jest": "^28.1.6",
+    "@types/joi": "^17.2.3",
+    "@types/minimist": "^1.2.2",
+    "@types/passport": "^1.0.9",
+    "@types/passport-local": "^1.0.34",
+    "@types/supertest": "^2.0.12",
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
