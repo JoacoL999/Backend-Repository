@@ -24,11 +24,11 @@ const login: VerifyFunctionWithRequest = async (req: Request, email: string, pas
 
 const signup: VerifyFunctionWithRequest = async (req: Request, email: string, password: string, done: any) => {
     try {
-        const { firstName, lastName, email, age, isAdmin, password, phoneNum } = req.body
-        const user = { firstName, lastName, email, age, isAdmin, password, phoneNum}
+        const { firstName, lastName, email, age, isAdmin, password, phoneNum, address } = req.body
+        const user = { firstName, lastName, email, age, isAdmin, password, phoneNum, address}
         const newUser = await usersAPI.postUser(user)
         infoLogger.info('User created!', newUser)
-        CartsController.createCart(user.email, user.phoneNum)
+        CartsController.createCart(newUser._id, newUser.phoneNum)
         return done(null, newUser)
     } catch (error: any) {
         errorLogger.error('Error creating new USER:', error)

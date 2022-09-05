@@ -35,11 +35,11 @@ const login = (req, email, password, done) => __awaiter(void 0, void 0, void 0, 
 });
 const signup = (req, email, password, done) => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        const { firstName, lastName, email, age, isAdmin, password, phoneNum } = req.body;
-        const user = { firstName, lastName, email, age, isAdmin, password, phoneNum };
+        const { firstName, lastName, email, age, isAdmin, password, phoneNum, address } = req.body;
+        const user = { firstName, lastName, email, age, isAdmin, password, phoneNum, address };
         const newUser = yield usersAPI_1.default.postUser(user);
         loggers_1.infoLogger.info('User created!', newUser);
-        cartsController_1.default.createCart(user.email, user.phoneNum);
+        cartsController_1.default.createCart(newUser._id, newUser.phoneNum);
         return done(null, newUser);
     }
     catch (error) {

@@ -2,15 +2,16 @@ import mongoose from "mongoose"
 import moment from "moment"
 import MongoDB from "../utils/mongoConnection"
 import { errorLogger } from '../utils/loggers'
-import wspController from '../controllers/msgController'
+
 
 const dbCollection = 'carts'
 
 const cartSchema = new mongoose.Schema({
-    user: { type: String, required: true },
+    userID: { type: String, required: true },
     date: { type: String, default: moment().format('MMMM Do YYYY, h:mm:ss a')},
     phoneNum: { type: String, required: true },
-    carts: { type: Array, required: false }
+    carts: { type: Array, required: false },
+    total: { type: Number, required: true }
 })
 
 class Carts {
@@ -24,7 +25,7 @@ class Carts {
 
     async getCart(id: string) {
         try {
-            const response = await this.carts.findOne({ user: id})
+            const response = await this.carts.findOne({ userID: id})
             if (response.length == 0) {
                 throw new Error('Cart not found')
             }
@@ -37,7 +38,7 @@ class Carts {
 
     async createCart(id: string, phone: string) {
         try{
-            const response = await this.carts.create({user: id, phoneNum: phone,carts: []})
+            const response = await this.carts.create({userID: id, phoneNum: phone,carts: [], total: 0})
             return response
         } catch (error: any) {
             errorLogger.error(error.message)
@@ -47,7 +48,8 @@ class Carts {
 
     async updateCart(id: string, cart: any) {
         try{
-            const response = await this.carts.findOneAndUpdate({ user: id }, cart )
+            
+            const response = await this.carts.findOneAndUpdate({ userID: id }, cart)
             if (!response) {
                 throw new Error('Cart not found')
             }
@@ -60,7 +62,7 @@ class Carts {
 
     async emptyCart(id: string) {
         try {
-            const response = await this.carts.findOneAndUpdate({ user: id}, { carts: []})
+            const response = await this.carts.findOneAndUpdate({ userID: id}, { carts: []})
             if (!response) {
                 throw new Error('Cart not found')
             }

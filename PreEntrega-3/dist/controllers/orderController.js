@@ -12,19 +12,15 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const cartsAPI_1 = __importDefault(require("../apis/cartsAPI"));
-const orderController_1 = __importDefault(require("./orderController"));
-const msgController_1 = __importDefault(require("./msgController"));
-class CartsController {
+const orderAPI_1 = __importDefault(require("../apis/orderAPI"));
+class OrderController {
     hasIdParam(req, res, next) {
         req.params.id ? next() : res.status(404).json({ msg: 'missing id' });
     }
-    getCart(req, res) {
+    getOrder(req, res) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                const response = yield cartsAPI_1.default.getCart(req.params.id);
-                msgController_1.default.wsp(response);
-                msgController_1.default.sendEmail(response);
+                const response = yield orderAPI_1.default.getOrder(req.params.id);
                 return res.status(200).json(response);
             }
             catch (error) {
@@ -32,20 +28,40 @@ class CartsController {
             }
         });
     }
-    createCart(id, phone) {
+    createOrder(id, items) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                yield cartsAPI_1.default.createCart(id, phone);
+                console.log(items);
+                let total = 0;
+                items.forEach((game) => {
+                    let eachG = game.price * game.quantity;
+                    total += eachG;
+                    console.log(total);
+                    return total;
+                });
+                yield orderAPI_1.default.createOrder(id, items, total);
             }
             catch (error) {
                 throw new Error(error.message);
             }
         });
     }
-    updateCart(req, res) {
+    updateOrder(req, res) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                const response = yield cartsAPI_1.default.updateCart(req.params.id, req.body);
+                const { status } = req.body;
+                console.log(status);
+                let stat;
+                if (status === 2) {
+                    stat = 'Pagado';
+                }
+                else if (status === 3) {
+                    stat = 'Enviando';
+                }
+                else if (status === 4) {
+                    stat = 'Finalizado';
+                }
+                const response = yield orderAPI_1.default.updateOrder(req.params.id, stat);
                 return res.status(200).json(response);
             }
             catch (error) {
@@ -53,20 +69,11 @@ class CartsController {
             }
         });
     }
-    emptyCart(req, res) {
+    deleteOrder(req, res) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                const { order } = req.body;
-                if (order === false) {
-                    const response = yield cartsAPI_1.default.emptyCart(req.params.id);
-                    return res.status(200).json(response);
-                }
-                else if (order === true) {
-                    const response = yield cartsAPI_1.default.getCart(req.params.id);
-                    orderController_1.default.createOrder(response.userID, response.carts);
-                    const responseAfter = yield cartsAPI_1.default.emptyCart(req.params.id);
-                    return res.status(200).json(responseAfter);
-                }
+                const response = yield orderAPI_1.default.deleteOrder(req.params.id);
+                return res.status(200).json(response);
             }
             catch (error) {
                 return res.status(404).json({ error: error.message });
@@ -74,5 +81,5 @@ class CartsController {
         });
     }
 }
-const cartsController = new CartsController();
-exports.default = cartsController;
+const orderController = new OrderController();
+exports.default = orderController;

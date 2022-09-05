@@ -7,10 +7,12 @@ const express_1 = require("express");
 const games_1 = __importDefault(require("./games"));
 const auth_1 = __importDefault(require("./auth"));
 const carts_1 = __importDefault(require("./carts"));
+const order_1 = __importDefault(require("./order"));
 const router = (0, express_1.Router)();
 router.use('/game', games_1.default);
 router.use('/auth', auth_1.default);
 router.use('/cart', carts_1.default);
+router.use('/order', order_1.default);
 router.use('/', (req, res) => {
     res.status(404).json({
         message: 'Invalid API endpoint'

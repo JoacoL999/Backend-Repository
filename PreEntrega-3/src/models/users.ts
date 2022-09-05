@@ -3,6 +3,14 @@ import MongoDB from '../utils/mongoConnection';
 import bcrypt from 'bcrypt';
 import { errorLogger, infoLogger, warnLogger, debugLogger } from '../utils/loggers'
 
+
+export interface addressObject {
+    calle: string
+    altura: string
+    codPostal: string
+    piso: string
+    depto: string
+}
 export interface UserObject {
 
     _id?: string
@@ -13,19 +21,32 @@ export interface UserObject {
     isAdmin: boolean
     password: string
     phoneNum: string
+    address: addressObject
 }
 
 export const dbCollection = 'users'
 
+const address = new mongoose.Schema({
+    calle: { type: String, required: true },
+    altura: { type: String, required: true},
+    codPostal: { type: String, required: true },
+    piso: { type: String, required: false },
+    depto: { type: String, required: false },
+})
+
+
 const userSchema = new mongoose.Schema({
 
-    firstName: { type: String, required: true},
-    lastName: { type: String, required: true},
-    email: { type: String, required: true},
-    age: { type: Number, required: true},
-    isAdmin: { type: Boolean, required: false},
-    password: { type: String, required: true},
-    phoneNum: { type: String, required: true},
+    firstName: { type: String, required: true },
+    lastName: { type: String, required: true },
+    email: { type: String, required: true },
+    age: { type: Number, required: true },
+    isAdmin: { type: Boolean, required: false },
+    password: { type: String, required: true },
+    phoneNum: { type: String, required: true },
+    address: address
+    
+
 })
 
 userSchema.pre('save', async function (next) {

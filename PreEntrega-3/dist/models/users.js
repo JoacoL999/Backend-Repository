@@ -18,6 +18,13 @@ const mongoConnection_1 = __importDefault(require("../utils/mongoConnection"));
 const bcrypt_1 = __importDefault(require("bcrypt"));
 const loggers_1 = require("../utils/loggers");
 exports.dbCollection = 'users';
+const address = new mongoose_1.default.Schema({
+    calle: { type: String, required: true },
+    altura: { type: String, required: true },
+    codPostal: { type: String, required: true },
+    piso: { type: String, required: false },
+    depto: { type: String, required: false },
+});
 const userSchema = new mongoose_1.default.Schema({
     firstName: { type: String, required: true },
     lastName: { type: String, required: true },
@@ -26,6 +33,7 @@ const userSchema = new mongoose_1.default.Schema({
     isAdmin: { type: Boolean, required: false },
     password: { type: String, required: true },
     phoneNum: { type: String, required: true },
+    address: address
 });
 userSchema.pre('save', function (next) {
     return __awaiter(this, void 0, void 0, function* () {

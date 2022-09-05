@@ -16,23 +16,28 @@ const mongoose_1 = __importDefault(require("mongoose"));
 const moment_1 = __importDefault(require("moment"));
 const mongoConnection_1 = __importDefault(require("../utils/mongoConnection"));
 const loggers_1 = require("../utils/loggers");
-const dbCollection = 'carts';
-const cartSchema = new mongoose_1.default.Schema({
+const dbCollection = 'order';
+// const itemProd = new mongoose.Schema({
+//     name: { type: String, required: true },
+//     quantity: {type: Number, required: true},
+//     price: {type: Number, required: true}
+// })
+const orderSchema = new mongoose_1.default.Schema({
     userID: { type: String, required: true },
     date: { type: String, default: (0, moment_1.default)().format('MMMM Do YYYY, h:mm:ss a') },
-    phoneNum: { type: String, required: true },
-    carts: { type: Array, required: false },
-    total: { type: Number, required: true }
+    status: { type: String, required: true },
+    total: { type: Number, required: true },
+    Items: { type: Object, required: false }
 });
-class Carts {
+class Order {
     constructor() {
         mongoConnection_1.default.getConnection();
-        this.carts = mongoose_1.default.model(dbCollection, cartSchema);
+        this.order = mongoose_1.default.model(dbCollection, orderSchema);
     }
-    getCart(id) {
+    getOrder(id) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                const response = yield this.carts.findOne({ userID: id });
+                const response = yield this.order.findOne({ userID: id });
                 if (response.length == 0) {
                     throw new Error('Cart not found');
                 }
@@ -40,26 +45,41 @@ class Carts {
             }
             catch (error) {
                 loggers_1.errorLogger.error(error.message);
-                throw new Error(`Error getting carts: ${error.messages}`);
+                throw new Error(`Error getting order: ${error.messages}`);
             }
         });
     }
-    createCart(id, phone) {
+    createOrder(id, items, total) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                const response = yield this.carts.create({ userID: id, phoneNum: phone, carts: [], total: 0 });
+                const response = yield this.order.create({ userID: id, status: 'Generado', Items: items, total: total });
                 return response;
             }
             catch (error) {
                 loggers_1.errorLogger.error(error.message);
-                throw new Error(`Error creating cart: ${error.message}`);
+                throw new Error(`Error creating order: ${error.message}`);
             }
         });
     }
-    updateCart(id, cart) {
+    updateOrder(id, state) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                const response = yield this.carts.findOneAndUpdate({ userID: id }, cart);
+                const response = yield this.order.findOneAndUpdate({ userID: id }, { status: state });
+                if (!response) {
+                    throw new Error('order not found');
+                }
+                return response;
+            }
+            catch (error) {
+                loggers_1.errorLogger.error(error.message);
+                throw new Error(`Error updating order: ${error.message}`);
+            }
+        });
+    }
+    deleteOrder(id) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const response = yield this.order.findOneAndDelete({ userID: id });
                 if (!response) {
                     throw new Error('Cart not found');
                 }
@@ -67,25 +87,10 @@ class Carts {
             }
             catch (error) {
                 loggers_1.errorLogger.error(error.message);
-                throw new Error(`Error updating cart: ${error.message}`);
-            }
-        });
-    }
-    emptyCart(id) {
-        return __awaiter(this, void 0, void 0, function* () {
-            try {
-                const response = yield this.carts.findOneAndUpdate({ userID: id }, { carts: [] });
-                if (!response) {
-                    throw new Error('Cart not found');
-                }
-                return response;
-            }
-            catch (error) {
-                loggers_1.errorLogger.error(error.message);
-                throw new Error(`Error emptying cart: ${error.message}`);
+                throw new Error(`Error deleting order: ${error.message}`);
             }
         });
     }
 }
-const carts = new Carts();
-exports.default = carts;
+const order = new Order();
+exports.default = order;

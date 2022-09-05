@@ -3156,3 +3156,36 @@
 [2022-08-02T17:46:08.002] [ERROR] error - Invalid update pipeline operator: "name"
 [2022-08-02T17:48:45.000] [ERROR] error - Invalid update pipeline operator: "name"
 [2022-08-02T17:56:03.976] [ERROR] error - Found non-callable @@iterator
+[2022-09-03T16:59:22.333] [ERROR] error - Connection error: MongooseServerSelectionError: connection <monitor> to 35.172.173.179:27017 closed
+    at NativeConnection.Connection.openUri (D:\CoderHouse\backend github\PreEntrega-3\node_modules\mongoose\lib\connection.js:819:32)
+    at D:\CoderHouse\backend github\PreEntrega-3\node_modules\mongoose\lib\index.js:378:10
+    at D:\CoderHouse\backend github\PreEntrega-3\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\CoderHouse\backend github\PreEntrega-3\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\CoderHouse\backend github\PreEntrega-3\node_modules\mongoose\lib\index.js:1223:10)
+    at Mongoose.connect (D:\CoderHouse\backend github\PreEntrega-3\node_modules\mongoose\lib\index.js:377:20)
+    at mongoConnect.<anonymous> (D:\CoderHouse\backend github\PreEntrega-3\dist\utils\mongoConnection.js:35:46)
+    at Generator.next (<anonymous>)
+    at D:\CoderHouse\backend github\PreEntrega-3\dist\utils\mongoConnection.js:8:71 {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'cluster0-shard-00-00.laxt1.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-01.laxt1.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-02.laxt1.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-nps3rr-shard-0',
+    logicalSessionTimeoutMinutes: undefined
+  },
+  code: undefined
+}
+[2022-09-03T17:02:48.534] [ERROR] error - Cannot read properties of null (reading 'length')
+[2022-09-04T22:25:19.508] [ERROR] error - carts validation failed: user: Path `user` is required.
+[2022-09-04T22:47:50.339] [ERROR] error - order validation failed: Items.0.price: Path `price` is required., Items.0.quantity: Path `quantity` is required., Items.0.name: Path `name` is required., Items.0.appID: Path `appID` is required.
+[2022-09-04T22:50:47.502] [ERROR] error - order validation failed: Items.0.price: Path `price` is required., Items.0.quantity: Path `quantity` is required., Items.0.name: Path `name` is required.
+[2022-09-04T23:03:09.054] [ERROR] error - order validation failed: total: Cast to Number failed for value "NaN" (type number) at path "total"
+[2022-09-04T23:06:45.896] [ERROR] error - order validation failed: total: Cast to Number failed for value "NaN" (type number) at path "total"
